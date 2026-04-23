@@ -1,4 +1,5 @@
 设置日期和豆包火山大模型的api（可在火山大模型申请，这里采用Doubao-Seedream-5.0-lite视觉模型）
+命令行输入下面命令修改时间和设置api
 date -s "2026-03-14 12:00:00"
 export DOUBAO_API_KEY='d7********5'
 
@@ -89,7 +90,8 @@ Wi‑Fi 页面状态提示做了收敛
 
 
 
-git推送
+git推送 
+
 PS C:\Users\ git --version
 git version 2.51.0.windows.1
 PS C:\Users\> git config --global user.name "777mygit"
